@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ritesh Sharma
-- 🌱 I’m Frontend Developer
-- Portfolio : https://rtsdeveloper.github.io/
+- 🌱 I’m React and React Naitve Developer
 
 <!---
 Ritesh-HangingPanda/Ritesh-HangingPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,77 +1,87 @@
 # 👋 Hi, I’m Ritesh Sharma
 
-🚀 React & React Native Developer focused on building scalable, high-performance applications.
+🚀 **React & React Native Developer**
+Building scalable, high-performance mobile & web applications.
 
 ---
 
-## 💼 About Me
+## ⚡ About Me
 
-- 🔭 Currently working on production-grade mobile & web applications  
-- ⚛️ Specialized in **React.js, Next.js, and React Native**  
-- 📱 Strong focus on **performance optimization & clean architecture**  
-- 🧠 Passionate about writing maintainable and scalable code  
-- 🤝 Open to collaborating on impactful products  
+* 🔭 Working on **production-grade apps (mobile & web)**
+* ⚛️ Focused on **React.js, Next.js & React Native**
+* 📱 Passionate about **performance optimization & smooth UX**
+* 🧠 Strong believer in **clean, scalable architecture**
+* 🤝 Open to collaborating on impactful products
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React.js
-- Next.js
-- React Native
+### 🚀 Frontend
 
-**State Management**
-- Redux Toolkit
-- Context API
-- Zustand
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react)
 
-**Styling**
-- Tailwind CSS
-- Styled Components
+### 🧠 State Management
 
-**Tools & Ecosystem**
-- Git & GitHub
-- Yarn / npm
-- Metro / Webpack
-- ESLint & Prettier
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat\&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat)
+
+### 🎨 Styling
+
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat\&logo=tailwind-css)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=flat)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat\&logo=yarn)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat\&logo=eslint)
 
 ---
 
 ## 📱 Mobile Development
 
-- Cross-platform apps using React Native  
-- Native module integration (Android & iOS)  
-- Performance tuning (re-renders, memory, navigation)  
-- Liveness detection & camera-based features  
+* ⚡ Cross-platform apps using **React Native**
+* 🔌 Native modules (Android & iOS integration)
+* 🚀 Performance tuning (re-renders, memory, navigation)
+* 📷 Camera & **Liveness Detection SDK integration**
 
 ---
 
-## ⚡ Key Strengths
+## ⚡ Core Strengths
 
-- Clean, modular, and reusable code  
-- Performance-first approach  
-- Strong debugging & problem-solving skills  
-- Production-level architecture understanding  
-- API integration & async handling  
+```text
+✔ Clean Architecture
+✔ Performance Optimization
+✔ Scalable Codebase Design
+✔ Debugging & Issue Resolution
+✔ API Integration & Async Flows
+```
 
 ---
 
-## 📊 GitHub Stats
+## 📌 What I Focus On
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh-HangingPanda&show_icons=true&theme=default)
+* Writing **production-ready code**
+* Reducing **unnecessary re-renders**
+* Improving **app startup & runtime performance**
+* Maintaining **clean and modular structure**
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Ritesh-HangingPanda
+* 🔗 GitHub: https://github.com/Ritesh-HangingPanda
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy optimizing apps until they feel instant ⚡
+> I optimize apps until even animations feel instant ⚡
 
 ---
 
